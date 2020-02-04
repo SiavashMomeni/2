@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1580215083 source:d:\ce\hw\rand.c
+	<stdio.h>
+	<stdlib.h>
+
